@@ -7,3 +7,5 @@ Just practicing some pixel arts.
 ![Chicken](chicken/chicken.png)
 ![Dog](dog/dog.png)
 ![Cat](cat/cat.png)
+![Gameboy](gameboy/gameboy.png)
+![Fish](fish/fish.png)
