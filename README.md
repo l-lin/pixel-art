@@ -10,3 +10,4 @@ Just practicing some pixel arts.
 ![Gameboy](gameboy/gameboy.png)
 ![Fish](fish/fish.png)
 ![Poring](poring/poring.png)
+![Link](zelda/link.png)
