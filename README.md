@@ -11,4 +11,4 @@ Just practicing some pixel arts.
 ![Fish](fish/fish.png)
 ![Poring](poring/poring.png)
 ![Link](zelda/link.png)
-![Light bulb](others/light_bulb.png)
+![Light bulb](others/light_bulb.gif)
