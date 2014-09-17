@@ -13,3 +13,4 @@ Just practicing some pixel arts.
 ![Link](zelda/link.png)
 ![Light bulb](other/light_bulb.gif)
 ![Mario V](mario/mario_v.png)
+![Raccoon](raccoon/raccoon.png)
