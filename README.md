@@ -15,3 +15,4 @@ Just practicing some pixel arts.
 ![Mario V](mario/mario_v.png)
 ![Raccoon](raccoon/raccoon.png)
 ![Yoo Jae-Suk](runningman/yoo_jae-suk.png)
+![l-lin](other/l-lin.png)
