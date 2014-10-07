@@ -1,18 +1,15 @@
-pixel-art
-=========
-
-Just practicing some pixel arts.
-
-![Frog](frog/frog.png)
-![Chicken](chicken/chicken.png)
-![Dog](dog/dog.png)
-![Cat](cat/cat.png)
-![Gameboy](gameboy/gameboy.png)
-![Fish](fish/fish.png)
-![Poring](poring/poring.png)
-![Link](zelda/link.png)
-![Light bulb](other/light_bulb.gif)
-![Mario V](mario/mario_v.png)
-![Raccoon](raccoon/raccoon.png)
-![Yoo Jae-Suk](runningman/yoo_jae-suk.png)
-![l-lin](other/l-lin.png)
+pixel-art 
+========= 
+ 
+![cat](cat/cat.png) 
+![chicken](chicken/chicken.png) 
+![dog](dog/dog.png) 
+![fish](fish/fish.png) 
+![frog](frog/frog.png) 
+![gameboy](gameboy/gameboy.png) 
+![mario_v](mario/mario_v.png) 
+![l-lin](other/l-lin.png) 
+![poring](poring/poring.png) 
+![raccoon](raccoon/raccoon.png) 
+![yoo_jae-suk](runningman/yoo_jae-suk.png) 
+![link](zelda/link.png) 
