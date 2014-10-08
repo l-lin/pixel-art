@@ -13,3 +13,4 @@ pixel-art
 ![raccoon](raccoon/raccoon.png) 
 ![yoo_jae-suk](runningman/yoo_jae-suk.png) 
 ![link](zelda/link.png) 
+![light_bulb](other/light_bulb.gif) 

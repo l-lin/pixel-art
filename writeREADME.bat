@@ -15,5 +15,13 @@ for /r %%f in (*.png) do (
 
     echo ^^![!IMG!]^(!FINAL_FILE_NAME!^) >> README.md
 )
+for /r %%f in (*.gif) do (
+    SET IMG=%%~nf
+    SET FILE=%%f
+    SET FILE_WITH_DIR=!FILE:%CURRENT_DIR%=!
+    SET FINAL_FILE_NAME=!FILE_WITH_DIR:\=/!
+
+    echo ^^![!IMG!]^(!FINAL_FILE_NAME!^) >> README.md
+)
 
 ENDLOCAL
