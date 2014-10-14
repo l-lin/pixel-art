@@ -2,6 +2,7 @@ pixel-art
 ========= 
  
 ![byuu](bahamut_lagoon/byuu.png) 
+![soldier_1](bahamut_lagoon/soldier_1.png) 
 ![cat](cat/cat.png) 
 ![chicken](chicken/chicken.png) 
 ![dog](dog/dog.png) 
