@@ -14,7 +14,6 @@ pixel-art
 ![poring](poring/poring.png)
 ![light_bulb](other/light_bulb.gif)
 ![l-lin](other/l-lin.png)
-![codingdojo](other/codingdojo.png)
 ![chicken](chicken/chicken.png)
 ![dog](dog/dog.png)
 ![yoo_jae-suk](runningman/yoo_jae-suk.png)
