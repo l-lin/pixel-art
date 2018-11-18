@@ -15,6 +15,7 @@ pixel-art
 ![light_bulb](other/light_bulb.gif)
 ![old_man](other/old_man.png)
 ![l-lin](other/l-lin.png)
+![unicorn](unicorn/unicorn.png)
 ![chicken](chicken/chicken.png)
 ![dog](dog/dog.png)
 ![yoo_jae-suk](runningman/yoo_jae-suk.png)
