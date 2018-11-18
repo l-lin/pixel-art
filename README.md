@@ -13,6 +13,7 @@ pixel-art
 ![fish](fish/fish.png)
 ![poring](poring/poring.png)
 ![light_bulb](other/light_bulb.gif)
+![old_man](other/old_man.png)
 ![l-lin](other/l-lin.png)
 ![chicken](chicken/chicken.png)
 ![dog](dog/dog.png)
