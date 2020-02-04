@@ -1,16 +1,16 @@
 #!/bin/bash
 
-FILE_TO_WRITE=README.md
+file_to_write=README.md
 
-echo pixel-art > $FILE_TO_WRITE
-echo ========= >> $FILE_TO_WRITE
-echo >> $FILE_TO_WRITE
+echo pixel-art > $file_to_write
+echo ========= >> $file_to_write
+echo >> $file_to_write
 
-for F in `find . -type f|egrep 'png|gif'`
+for F in $(find . -type f|grep -E 'png|gif')
 do
-    IMG_NAME=`echo $F | cut -d'.' -f 2 | cut -d'/' -f 3`
-    FILE_PATH=${F/.\//}
-    echo "![$IMG_NAME]($FILE_PATH)" >> $FILE_TO_WRITE
+    img_name=$(echo "$F" | cut -d '.' -f 2 | cut -d '/' -f 3)
+    file_path=${F/.\//}
+    echo "![$img_name]($file_path)" >> $file_to_write
 done
 
 exit 0
