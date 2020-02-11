@@ -10,8 +10,6 @@ pixel-art
 ![mario_v](mario/mario_v.png)
 ![cat](cat/cat.png)
 ![gameboy](gameboy/gameboy.png)
-![palette](common/palette.png)
-![default_heads](common/default_heads.png)
 ![ironman](ironman/ironman.png)
 ![ironman_fly](ironman/ironman_fly.png)
 ![chicken](chicken/chicken.png)
